@@ -330,3 +330,4 @@ public class Employee {
 		frame.getContentPane().add(lblNewLabel_1);
 	}
 }
+
